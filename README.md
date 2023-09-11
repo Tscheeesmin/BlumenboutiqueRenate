@@ -1,2 +1,7 @@
 # BlumenboutiqueRenate
-Web representation, including an online ordering system and a news feed, for a flower shop in Blindenmarkt, Lower Austria.
+A web representation for a flower shop in Blindenmarkt, Lower Austria.
+The functionalites include:
+- online ordering
+- news feed
+- galeries
+- admin backend for managing the sites contents
